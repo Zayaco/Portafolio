@@ -1,0 +1,23 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zayaco/Async-landing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zayaco/Async-landing/issues"
+  },
+  "homepage": "https://github.com/Zayaco/Async-landing#readme",
+  "keywords": [],
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}

@@ -38,6 +38,6 @@ async function fetchData(urlApi) {
         `;
         content.innerHTML = view;
     } catch (error) {
-
+        
     }
 })();
